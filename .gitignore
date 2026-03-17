@@ -1,0 +1,27 @@
+# Maven / build output
+**/target/
+**/build/
+
+# IntelliJ
+.idea/
+*.iml
+
+# VS Code
+.vscode/
+
+# Eclipse / STS
+.classpath
+.project
+.settings/
+
+# OS files
+Thumbs.db
+.DS_Store
+
+# Logs
+*.log
+
+# Env / local overrides
+.env
+.env.*
+!.env.example
